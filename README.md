@@ -8,6 +8,6 @@ Use o projeto final como uma espécie de gabarito/solução.
 
 ### Não desista
 
-Experimente, modifique, brinque sem medo com esse código, é assim que vocês irá entende-lo! 😃
+Experimente, modifique, brinque sem medo com esse código, é assim que você irá entende-lo! 😃
 
-Qualquer coisa chamem um dos mentores pra tirar suas dúvidas! Estamos aqui pra te ajudar a aprender 🌱
+Qualquer coisa chame um dos mentores pra tirar suas dúvidas, estamos aqui pra te ajudar a aprender 🌱
